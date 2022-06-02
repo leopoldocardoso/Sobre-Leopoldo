@@ -6,7 +6,7 @@
 
 **- Estudando infra estrutura como código** 
 
-**- Linkedin: https://www.linkedin.com/in/leopoldopcardoso/**
+**- Linkedin: linkedin.com/in/leopoldopcardoso/**
   
   ##
 
