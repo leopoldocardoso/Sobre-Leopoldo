@@ -4,7 +4,7 @@
 
 **- Estudando cultura DevOps**
 
-**- Estudando infra estrutura como código** 
+**- Estudando infra estrutura como código (Terraform)** 
 
 **- Linkedin: linkedin.com/in/leopoldopcardoso/**
   
